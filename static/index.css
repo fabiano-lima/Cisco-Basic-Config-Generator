@@ -1,0 +1,64 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: #9932CC;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Form1
+{
+   background-color: #FAFAFA;
+   border: 0px #000000 solid;
+}
+#Button2
+{
+   border: 1px #7B68EE solid;
+   background-color: #6A5ACD;
+   color: #F5FFFA;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 15px;
+}
+#FileUpload1
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family:Arial;
+   font-weight: normal;
+   font-style: italic;
+   font-size: 13px;
+}
+#Button3
+{
+   border: 1px #7B68EE solid;
+   background-color: #6A5ACD;
+   color: #F5FFFA;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 15px;
+}
+#PageFooter1
+{
+   background-color: #FAFAFA;
+}

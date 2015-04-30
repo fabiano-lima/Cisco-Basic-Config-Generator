@@ -1,0 +1,22 @@
+!
+etc
+!
+password test
+
+!
+class-map match-all VOICE
+ match class-map VOICE_TRAFFIC
+ match not access-group 1
+class-map match-any MGMT_OUTPUT
+ match access-group 2
+!
+!
+username test
+!
+snmp test community test
+!
+etc
+!
+etc
+!
+!
